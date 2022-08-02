@@ -1,0 +1,7 @@
+{
+  "name": "choose4me-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
